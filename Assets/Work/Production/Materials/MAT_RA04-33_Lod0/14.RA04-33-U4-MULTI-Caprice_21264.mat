@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 14.RA04-33-U4-MULTI-Caprice_21264
+  m_Shader: {fileID: 4800000, guid: 3d1b6bd725ee5d14e9e7685bda146ddb, type: 3}
+  m_ShaderKeywords: DIFFUSE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - cBumpMap:
+        m_Texture: {fileID: 2800000, guid: 65561edee582c0d4e96e47a00b69d618, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cDetailMap:
+        m_Texture: {fileID: 2800000, guid: 6c5a5895cf33e484398f1e841c6f06f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cDiffuseMap:
+        m_Texture: {fileID: 2800000, guid: 5fe34e0bf941e7d43a7a785c580a11aa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cMaskMap:
+        m_Texture: {fileID: 2800000, guid: 7c7ecbda08ab46c41b25c6b2883b1052, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - cBlendColor1: {r: 1, g: 1, b: 1, a: 1}
+    - cBlendColor2: {r: 1, g: 1, b: 1, a: 1}
+    - cDetailColor: {r: 1, g: 1, b: 1, a: 1}
+    - cPack0: {r: 1, g: 0.01, b: 0.01, a: 0}
+    - cPack1: {r: 0, g: 0, b: 2, a: 1}
+    - cSpecColor: {r: 1, g: 1, b: 1, a: 0}

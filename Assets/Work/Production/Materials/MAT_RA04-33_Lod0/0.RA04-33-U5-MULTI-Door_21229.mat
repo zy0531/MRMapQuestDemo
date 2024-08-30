@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0.RA04-33-U5-MULTI-Door_21229
+  m_Shader: {fileID: 4800000, guid: a748c2ccf5d53d44686f577163e47abe, type: 3}
+  m_ShaderKeywords: BUMP DIFFUSE MASK UVDERAIL
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - cBumpMap:
+        m_Texture: {fileID: 2800000, guid: 2e89eb00d9808b64d893b4eda9b7330a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cDetailMap:
+        m_Texture: {fileID: 2800000, guid: e11de6d2709f27441bda194f7128fc0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cDiffuseMap:
+        m_Texture: {fileID: 2800000, guid: dcf267df1d89a3649a46bc6b19746aa0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cMaskMap:
+        m_Texture: {fileID: 2800000, guid: d757671378f61914fa344d6037e0bd46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - cBlendColor1: {r: 0.203922, g: 0.203922, b: 0.203922, a: 1}
+    - cBlendColor2: {r: 1, g: 1, b: 1, a: 1}
+    - cDetailColor: {r: 1, g: 1, b: 1, a: 1}
+    - cPack0: {r: 1, g: 0.2, b: 0.075, a: 0}
+    - cPack1: {r: 0, g: 0, b: 1, a: 0.01}
+    - cSpecColor: {r: 1, g: 1, b: 1, a: 0}

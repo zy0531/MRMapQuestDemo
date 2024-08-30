@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0.CULT-Bush-03_239
+  m_Shader: {fileID: 4800000, guid: 7f02fc43b3113dc45aee0bdaf1de8222, type: 3}
+  m_ShaderKeywords: DIFFUSE MASK
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - cDiffuseMap:
+        m_Texture: {fileID: 2800000, guid: 827ca84fda0d33c4c9a72117a22bd5f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cMaskMap:
+        m_Texture: {fileID: 2800000, guid: de44b427f5ed8fc42b53b9e859aac26f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - cBlendColor1: {r: 1, g: 1, b: 1, a: 1}
+    - cPack0: {r: 1, g: 1, b: 1, a: 1}
+    - cPack1: {r: -0.01, g: -0.01, b: -0.01, a: -0.01}
+    - cPack2: {r: -0.01, g: 0.01, b: 0.01, a: 0}
+    - cPack3: {r: 0.01, g: 0.01, b: 0.01, a: 0.01}
+    - cSSSColor: {r: 0.0392157, g: 0.0784314, b: 0.0392157, a: 0}

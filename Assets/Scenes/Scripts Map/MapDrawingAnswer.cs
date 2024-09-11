@@ -17,23 +17,23 @@ public class MapDrawingAnswer : MonoBehaviour
     void Start()
     {
         //Record Data -- First Line
-        Path = dataManager.folderPath;
-        FileName = dataManager.fileName;
-        RecordData.SaveData(Path, FileName,
-              "Time" + ";"
-            + "Landmark_name" + ";"
-            + "Landmark_viewPos" + ";"
-            + "est_x" + ";"
-            + "est_y" + ";"
-            + "est_z" + ";"
-            + "answer_x" + ";"
-            + "anwser_y" + ";"
-            + "answer_z" + '\n');
-        //Record the task starting time
-        RecordData.SaveData(Path, FileName,
-              DateTime.Now.ToString() + ";"
-                        + ";"
-                        + '\n');
+        // Path = dataManager.folderPath;
+        // FileName = dataManager.fileName;
+        // RecordData.SaveData(Path, FileName,
+        //       "Time" + ";"
+        //     + "Landmark_name" + ";"
+        //     + "Landmark_viewPos" + ";"
+        //     + "est_x" + ";"
+        //     + "est_y" + ";"
+        //     + "est_z" + ";"
+        //     + "answer_x" + ";"
+        //     + "anwser_y" + ";"
+        //     + "answer_z" + '\n');
+        // //Record the task starting time
+        // RecordData.SaveData(Path, FileName,
+        //       DateTime.Now.ToString() + ";"
+        //                 + ";"
+        //                 + '\n');
     }
 
     // Update is called once per frame

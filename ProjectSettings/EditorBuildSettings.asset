@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene for Experiments/MRMapMapDrawing.unity
     guid: 333c57336f93f544888f4521a63e812d
+  - enabled: 0
+    path: Assets/Scenes/Scene for Experiments/MRMapMapDrawingDebug.unity
+    guid: 301ed2311bf87a741af48b83624415d7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c13c286bfa9c6a948bbb361849fdf82e, type: 2}
     Varjo.XR.Settings: {fileID: 11400000, guid: 621b35eec93e7d54ba2e1ec41b208f48, type: 2}
